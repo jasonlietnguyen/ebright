@@ -1,0 +1,149 @@
+/* Font Family */
+body {
+	font-family: 'Open Sans Condensed', sans-serif;
+	overflow-x: hidden; 
+}
+.bold {
+	font-weight: bold;
+}
+.blue-i {
+	color: #469AE0;
+	font-size: 80px;
+}
+.statics {
+	color: #444;
+	font-family: 'Yellowtail', cursive;
+	font-size: 50px;
+	margin-top: 10px;
+}
+.inline {
+	display: inline;
+}
+.row1 p {
+	display: inline;
+	margin-left: 35px;
+}
+.row1 {
+	font-size: 29px;
+}
+.row1-margin {
+	margin-top: 18px;
+}
+/* Row 2 */
+.row2-image {
+	background-image: url(img/apple.jpg);
+	background-position: center;
+	height: 420px;
+	background-size: cover;
+}
+
+.row3 {
+	background-color: #469AE0;
+	height: 140px;
+}
+.row2-background p {
+	background-color: #469AE0;
+	padding: 8px;
+	text-align: center;
+	border-radius: 5px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-stretch: inherit;
+	font-size: 1.2em;
+	margin: 15px 0;
+	color: white;
+}
+.row2-background {
+	margin-top: 30px;
+	border-radius: 50px;
+}
+/* Row 3 */
+.row3 {
+	color: white;
+	font-size: 1.2em;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+.row3 p{
+	margin-top: 50px;
+}
+.row3-button {
+	margin: 45px 0;
+	font-size: 1.2em;
+	color: black;
+}
+.inline h3{
+	display: inline;
+}
+/* Row 4 */
+.row4-font {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-weight: bolder;
+	margin-top: 40px;
+}
+.row4-center {
+	border: 1px solid none;
+	color: white;
+	background-color: #469AE0;
+	padding-top: 10px;
+	border-radius: 5px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 2em;
+	margin-top: 20px;
+	font-stretch: initial;
+}
+/* Row 5 */
+.row5 {
+	background: #cecece;
+}
+.row5-background {
+	margin-top: 50px;
+}
+.row6 img {
+	margin-bottom: 50px;
+}
+.row6 {
+	font-size: 1.2em;
+}
+/* Row 7 */
+.row7 {
+	background-color: #cecece;
+	padding-bottom: 70px;
+}
+.row7 img {
+	margin-top: 60px;
+}
+/* Row 8 */
+.row8 {
+	font-size: 1.2em;
+	background-color: #469AE0;
+	padding-bottom: 60px;
+	color: white;
+}
+.row8 i {
+	margin-top: 60px;
+}
+.row8 p {
+	padding-bottom: 20px;
+}
+/* Row 9 */
+.row9 {
+	padding-top: 30px;
+}
+.row9-background {
+	background-color: #cecece;
+}
+/* Row 10 */
+.row10 {
+	background-color: #2D2D2D;
+	color: white;
+}
+.inline-button {
+	display: inline;
+}
+.row9-bottom {
+	padding-bottom: 30px;
+}
+
+/**{
+	outline: 1px solid red;
+	min-height: 3px;
+}*/
